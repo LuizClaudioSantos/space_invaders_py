@@ -1,7 +1,7 @@
 # Space Invaders 
 This is a Space Invaders game made in Python using pygame, it is a funny way to learn a programming language.
 
-## Getting your hand dirty
+## Getting your hands dirty
 
 1. Clone this repository
    
